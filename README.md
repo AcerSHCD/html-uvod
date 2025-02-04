@@ -2,14 +2,15 @@
 
 Píšu text
 
-Nový odstavec něco **tučně**
+Nový odstavec něco **tučně** 
 
 - odrážka
 - odrážka
 
-1. číslovaný
+1. číslování
 2. další
 3. další
+
 
 
 
